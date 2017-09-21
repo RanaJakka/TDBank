@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Banque TD</string>
+    <string name="loc">Votre emplacement actuel à:</string>
+    <string name="getinfo">Obtenir un rapport météo</string>
+    <string name="local">Emplacement à:</string>
+    <string name="date">Aujourd"hui à:</string>
+    <string name="gps_wait">Patientez quelques secondes pour accéder aux coordonnées GPS</string>
+</resources>

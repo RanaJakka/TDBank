@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TD Bank</string>
+    <string name="loc">Your current location at:</string>
+    <string name="getinfo">Get Weather Report</string>
+    <string name="local">Location at:</string>
+    <string name="date">Today at:</string>
+    <string name="lang">en</string>
+    <string name="gps_wait">Please wait few seconds to access GPS coordinates</string>
+</resources>
